@@ -45,4 +45,4 @@
     }
 
 ### 效果
-[!效果](https://github.com/Wzhixiang/RenderScript/blob/master/screencapture/device-2019-01-08-110320.png)
+![效果](https://github.com/Wzhixiang/RenderScript/blob/master/screencapture/device-2019-01-08-110320.png)
